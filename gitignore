@@ -1,0 +1,18 @@
+# PyInstaller
+dist/
+build/
+*.spec
+
+# FFmpeg 
+ffmpeg.exe
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
