@@ -1,10 +1,10 @@
 # VideoDownloader
 
-Baixe vídeos do YouTube, Instagram e Twitter/X com interface gráfica — sem precisar instalar Python.
+Baixe vídeos do YouTube, Instagram e Twitter/X com interface gráfica.
 
 ---
 
-## ⚠️ Aviso Legal
+## Aviso Legal
 
 Este projeto é apenas para fins educacionais.  
 O download de conteúdo protegido por direitos autorais pode violar os Termos de Uso das plataformas e legislações locais.  
